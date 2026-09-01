@@ -1,0 +1,6 @@
+httpx
+python-docx
+PyMuPDF
+pdf-inspector>=0.2.6,<0.3
+openpyxl
+jieba
